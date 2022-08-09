@@ -1,0 +1,30 @@
+@import url(cabecalho.css);
+
+@import url(menu/menu-lista.css);
+@import url(menu/menu-item.css);
+@import url(menu/menu-link.css);
+
+@import url(banner/banner-imagem.css);
+@import url(banner/banner-titulo.css);
+
+@import url(sobre/sobre.css);
+@import url(sobre/sobre-titulo.css);
+@import url(sobre/sobre-descricao.css);
+
+:root {
+    --cor-fundo: #f9f9f9;
+    --cor-link-menu: #808080;
+    --cor-link-menu-ativo: #333333;
+    --cor-vermelho: #8D0606;
+    --cor-branco: #FFFFFF;
+    --cor-preto: #000000;
+    --cor-descricao: #595959;
+
+    --fonte-titulo: "Pacifico";
+    --fonte-pricipal: "Roboto";
+}
+
+body {
+    font-family: var(--fonte-pricipal);
+    font-size: 16px;
+}

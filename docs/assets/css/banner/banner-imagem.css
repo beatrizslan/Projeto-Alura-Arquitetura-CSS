@@ -1,0 +1,5 @@
+.banner {
+    background: url(/docs/assets/img/banner.jpg) no-repeat;
+    background-size: cover;
+    height: 70vh;
+}

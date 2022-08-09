@@ -1,0 +1,16 @@
+.menu__link {
+    color: var(--cor-link-menu);
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+}
+
+.menu__link.menu__link--ativo {
+    color: var(--cor-link-menu-ativo);
+    font-weight: 700;
+}
+
+
