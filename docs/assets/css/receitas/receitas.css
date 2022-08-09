@@ -1,0 +1,9 @@
+.receitas {
+    align-items: center;
+    background: var(--cor-fundo);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5rem;
+    justify-content: center;
+    padding: 5rem;
+}

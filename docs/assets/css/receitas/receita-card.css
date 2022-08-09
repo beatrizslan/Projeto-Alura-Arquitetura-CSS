@@ -1,0 +1,6 @@
+.receitas__card {
+    background: var(--cor-branco);
+    border: 1px solid #C4C4C4;
+    border-radius: 2px;
+    width: 286px;
+}

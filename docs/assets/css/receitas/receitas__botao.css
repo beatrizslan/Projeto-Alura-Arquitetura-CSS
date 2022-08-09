@@ -1,0 +1,15 @@
+.receitas__botao {
+    background: var(--cor-vermelho);
+    border: none;
+    border-radius: 5px;
+    color: var(--cor-branco);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0.5rem 1rem;
+    transition: all .1s ease-in-out;
+}
+
+.receitas__botao:hover {
+    background: var(--cor-vermelho-hover);
+    cursor: pointer;
+}

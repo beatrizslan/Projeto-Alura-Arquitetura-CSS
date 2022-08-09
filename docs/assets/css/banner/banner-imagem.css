@@ -1,5 +1,4 @@
 .banner {
-    background: url(/docs/assets/img/banner.jpg) no-repeat;
-    background-size: cover;
+    background: url(/docs/assets/img/banner.jpg) no-repeat center / cover;
     height: 70vh;
 }

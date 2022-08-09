@@ -11,14 +11,33 @@
 @import url(sobre/sobre-titulo.css);
 @import url(sobre/sobre-descricao.css);
 
+@import url(receitas/receitas.css);
+@import url(receitas/receita-card.css);
+@import url(receitas/receitas-imagem.css);
+@import url(receitas/receitas-conteudo.css);
+@import url(receitas/receitas-titulo.css);
+@import url(receitas/receitas-descricao.css);
+@import url(receitas/receitas__botao.css);
+
+@import url(comunidade/comunidade.css);
+@import url(comunidade/comunidade-titulo.css);
+@import url(comunidade/comunidade-descricao.css);
+
+@import url(pessoa/pessoa.css);
+@import url(pessoa/pessoa-card.css);
+@import url(pessoa/pessoa-imagem.css);
+@import url(pessoa/pessoa-nome.css);
+@import url(pessoa/pessoa-funcao.css);
+
 :root {
+    --cor-branco: #FFFFFF;
+    --cor-descricao: #595959;
     --cor-fundo: #f9f9f9;
     --cor-link-menu: #808080;
     --cor-link-menu-ativo: #333333;
-    --cor-vermelho: #8D0606;
-    --cor-branco: #FFFFFF;
     --cor-preto: #000000;
-    --cor-descricao: #595959;
+    --cor-vermelho: #8D0606;
+    --cor-vermelho-hover: #6b0404;
 
     --fonte-titulo: "Pacifico";
     --fonte-pricipal: "Roboto";
@@ -26,5 +45,4 @@
 
 body {
     font-family: var(--fonte-pricipal);
-    font-size: 16px;
 }

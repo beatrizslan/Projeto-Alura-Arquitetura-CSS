@@ -1,0 +1,6 @@
+.pessoa__nome {
+    color: var(--cor-vermelho);
+    font-family: var(--fonte-titulo);
+    font-size: 32px;
+    font-weight: 400;
+}

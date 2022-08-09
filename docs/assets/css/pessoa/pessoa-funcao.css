@@ -1,0 +1,6 @@
+.pessoa__funcao {
+    color: var(--cor-descricao);
+    font-size: 23px;
+    font-weight: 400;
+    text-transform: lowercase;
+}
