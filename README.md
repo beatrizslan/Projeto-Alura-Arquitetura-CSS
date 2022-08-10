@@ -29,12 +29,12 @@ O desafio foi construir este projeto criando uma arquitetura CSS com a metodolog
 
 ### Screenshot
 
-
+![Captura de Tela (216)](https://user-images.githubusercontent.com/105252003/183991304-6255a4e0-48e6-4d76-a73c-9b0bc9d541a6.png)
 
 ### Links
 
 - URL da solução: [Index](https://github.com/beatrizslan/Projeto-Alura-Arquitetura-CSS/blob/main/docs/index.html)
-- URL do site: [Site]()
+- URL do site: [Site](https://beatrizslan.github.io/Projeto-Alura-Arquitetura-CSS/)
 
 ## Meu processo
 
@@ -75,7 +75,7 @@ O desafio foi construir este projeto criando uma arquitetura CSS com a metodolog
 
 ### Autor
 
-- Website - [Beatriz Slan | Alura]()
+- Website - [Beatriz Slan | Alura](https://beatrizslan.github.io/Projeto-Alura-Arquitetura-CSS/)
 - Linkedin - [in/beatriz-slan](https://www.linkedin.com/in/beatriz-slan-2324a4173/)
 
 
