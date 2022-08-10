@@ -2,3 +2,9 @@
     display: flex;
     gap: 1rem;
 }
+
+@media screen and (max-width: 520px) {
+    .menu__lista {
+        gap: 0.5rem;
+    }
+}

@@ -1,6 +1,8 @@
 .pessoa {
     align-items: center;
     display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
     justify-content: space-around;
     padding: 2rem;
 }
